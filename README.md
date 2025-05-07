@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MightyManas
 - 👀 I’m interested in Physics and Coding 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning GPU programming and cpp
 - 📫 How to reach me - manasanmol77@gmail.com
 
 
